@@ -1,0 +1,18 @@
+1
+1
+1
+1
+1
+1
+1
+1
+1.00
+1.00
+1
+1
+1
+1
+Patients with a BMI of less than 18.5: 0
+Patients with a BMI of less than 25: 0
+Patients with a BMI of less than 30: 0
+Patients with a BMI of greater than 30: 0
